@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Web Developer specialized in front end and WordPress, Interested in Python</h2></summary>
+    <summary><h2 style="display: inline-block">Web Developer specialized in front end , Interested in Python</h2></summary>
   </ul>
 </div>
 
