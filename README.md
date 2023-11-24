@@ -30,11 +30,9 @@
 
 - 🌱 I’m currently learning ** Python  **
 
-- ☁️ I've been interest in cloud computing. So,I'm learning ** AWS **
-
 - 💬 Ask me about ** react, next , javascript **
 
-- 📫 Feel free to reach me out ** mr3liqm@gmail.com **
+- 📫 Feel free to reach me out ** mr3limalik@gmail.com **
 
 <!--Intro end-->
 
